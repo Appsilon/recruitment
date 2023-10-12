@@ -1,4 +1,4 @@
-# Appsilon is hiring 
+# [Appsilon](https://appsilon.com/) is hiring 
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/8d75b8ec-7e5d-4fd8-a649-4ceef99a581e)
 We offer a unique environment where you can:
 
@@ -32,18 +32,7 @@ At Appsilon, we value flexibility and understand that work-life balance is essen
 Looking for a fully remote job at a company that values flexibility and collaboration? 
 Join us, wherever you are!
 
-# Recruitment Process
-If you want to know how to prepare for our recruitment process, check [this article on our blog](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)
-Our recruitment process is flexible for each candidate, as we adapt it to the requirements for every open position.
-
-**Instead, our recruitment process can be summarized in three steps:**
-1. Interview with Talent Manager
-2. Task and Skill Test
-3. Meeting with Management for a Final Decision
-
-You're in! Welcome on board :) 
-
-# Why Appsilon Is the Place for You?
+# Why [Appsilon](https://appsilon.com/) Is the Place for You?
 - **Company values and mission**: 
 We invest in being a force good through our Data 4 Good project, actively contributing to a better world.
 Attractive compensation package: We offer competitive compensation with extensive human-first, people-focused benefits to prioritize your personal and financial well-being. We provide a Personal Development Budget for you to use on your personal growth.
@@ -64,7 +53,7 @@ Appsilon works mostly with Global 2000 and Fortune 500 customers (startups are n
 Appsilon is in TOP 3 world providers of R/Shiny consulting services. We are specialists in our core technology, R/Shiny developers observe us and like to talk to us
 Impact: Your work has a real impact on the work of the whole company
 
-# Appsilon Values
+# Core Values
 - 💯 **Excellence: If you do it, do it well**
 We can do things that others cannot. Fortune 500 companies come to us to solve problems that they cannot solve internally. Our blog is a resource for industry professionals at Global 2K companies. We teach well-regarded workshops.
 
@@ -80,3 +69,14 @@ when we hire and when we need to end a partnership.
 
 - 🤝 **Trust: Tell the truth**
 We trust ourselves and each other to perform well. We are sure of the best intentions of the others in the team.
+
+# Recruitment Process
+If you want to know how to prepare for our recruitment process, check [this article on our blog](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)
+Our recruitment process is flexible for each candidate, as we adapt it to the requirements for every open position.
+
+**Instead, our recruitment process can be summarized in three steps:**
+1. Interview with Talent Manager
+2. Task and Skill Test
+3. Meeting with Management for a Final Decision
+
+You're in! Welcome on board :) 
