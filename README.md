@@ -70,6 +70,18 @@ when we hire and when we need to end a partnership.
 - 🤝 **Trust: Tell the truth**
 We trust ourselves and each other to perform well. We are sure of the best intentions of the others in the team.
 
+# Open Source
+
+Join the Appsilon community and be part of our Open Source movement! 
+
+We're dedicated to collaboration, innovation, and making a positive impact on the world. By contributing to our Open Source initiatives, you can sharpen your skills, work with a diverse and dynamic team, and stay on the cutting edge of technology. Your expertise can make a difference!
+
+At Appsilon, we develop data science solutions and create innovative tools that simplify development and boost efficiency. We share these as Open Source packages because we believe in open and accessible solutions.
+Our primary focus is enhancing the Shiny experience in R.
+Check out our [Open Source packages](https://appsilon.com/open-source-overview/) and delve into more details. 
+
+You're bound to find something useful!
+
 # Recruitment Process
 If you want to know how to prepare for our recruitment process, check [this article on our blog](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)
 Our recruitment process is flexible for each candidate, as we adapt it to the requirements for every open position.
