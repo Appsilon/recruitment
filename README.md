@@ -1,3 +1,9 @@
+# About [Appsilon](https://appsilon.com) 
+
+![image](https://github.com/Appsilon/recruitment/assets/147711381/775c25dd-68f9-4af8-94d8-0a37048a425d) **What mark will you leave on the world?** 
+
+We are a vibrant, international team of data scientists, engineers, and innovators who are passionate about making a positive impact in the world. The belief in the power of data and technology to solve some of the world's biggest challenges drives our commitment to exploring new possibilities and solutions.
+
 # [Appsilon](https://appsilon.com/) is hiring 
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/8d75b8ec-7e5d-4fd8-a649-4ceef99a581e)
 We offer a unique environment where you can:
@@ -8,14 +14,6 @@ We offer a unique environment where you can:
 - Work on cutting-edge projects that use data and technology to solve real-world problems
 
 [Join us](https://appsilon.com/careers/) and make a difference!
-
-
-# About [Appsilon](https://appsilon.com) 
-
-![image](https://github.com/Appsilon/recruitment/assets/147711381/775c25dd-68f9-4af8-94d8-0a37048a425d) **What mark will you leave on the world?** 
-
-We are a vibrant, international team of data scientists, engineers, and innovators who are passionate about making a positive impact in the world. The belief in the power of data and technology to solve some of the world's biggest challenges drives our commitment to exploring new possibilities and solutions.
-
 
 # Benefits that go beyond the paycheck!
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/56d48b34-b4ee-42fd-b3c1-6f72282f2687)
