@@ -49,7 +49,7 @@ Join us, wherever you are!
 
 
 # Why [Appsilon](https://appsilon.com/) Is the Place for You?
-  <img src="IMAGES/Screenshot 2023-10-10 at 09.47.08.png" alt=cover style="height:190px; width: 300px;"/> <img src="IMAGES/Mikolajki_0108.jpg" alt=cover style="height:190px; width: 300px;"/> <img src="IMAGES/Mikolajki_0022.jpg" alt=cover style="height:190px; width: 300px;"/>
+  <img src="IMAGES/Screenshot 2023-10-10 at 09.47.08.png" alt=cover style="height:280px; width: 470px;"/> <img src="IMAGES/Mikolajki_0022.jpg" alt=cover style="height:280px; width: 480px;"/>
 - **Company values and mission**: 
 We invest in being a force good through our Data 4 Good project, actively contributing to a better world.
 Attractive compensation package: We offer competitive compensation with extensive human-first, people-focused benefits to prioritize your personal and financial well-being. We provide a Personal Development Budget for you to use on your personal growth.
