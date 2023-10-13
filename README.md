@@ -41,11 +41,14 @@ We also give you the opportunity to grow and develop your career in a supportive
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/5b2d319b-a4e5-4237-8506-5c0540288449)
 **Remote Work, global talent, supportive culture.**
 
-We believe that great work can be done from anywhere, and we're thrilled to provide a supportive and inclusive work environment for talented individuals worldwide. 
-At Appsilon, we value flexibility and understand that work-life balance is essential. Whether you want to tailor your work to fit your family life or practice workation, we're here to support you.
+- We believe that great work can be done from any location, and we're thrilled to offer a supportive and inclusive work environment for talented individuals worldwide.
+- At Appsilon, we value flexibility and understand that work-life balance is essential. That’s why we've decided to work asynchronously.
+- Whether you want to tailor your work to fit your family life or practice workation, we're here to support you.
 
 Looking for a fully remote job at a company that values flexibility and collaboration? 
-Join us, wherever you are!
+
+**[Join us](https://appsilon.com/careers/)** wherever you are!
+
 
 
 # Why [Appsilon](https://appsilon.com/) Is the Place for You?
