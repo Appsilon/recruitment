@@ -6,6 +6,7 @@ We are a vibrant, international team of data scientists, engineers, and innovato
 
 # [Appsilon](https://appsilon.com/) is hiring 
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/8d75b8ec-7e5d-4fd8-a649-4ceef99a581e)
+
 We offer a unique environment where you can:
 
 - Receive competitive compensation and benefits
@@ -67,26 +68,32 @@ Impact: Your work has a real impact on the work of the whole company
 
 
 # Core Values
-- 💯 **Excellence: If you do it, do it well**
-We can do things that others cannot. Fortune 500 companies come to us to solve problems that they cannot solve internally. Our blog is a resource for industry professionals at Global 2K companies. We teach well-regarded workshops.
+- 💯 **Excellence:** If you do it, do it well.
+  
+  We can do things that others cannot. Fortune 500 companies come to us to solve problems that they cannot solve internally. Our blog is a resource for industry professionals at Global 2K companies. We teach well-regarded workshops.
 
-- 🧪 **Innovation: Experiment and invent**
-We are not afraid to look beyond what we already know. We have multiple examples of industry breakthroughs and contributions (700+ users on a single Shiny App, shiny.react, shiny.tools). We try new things and experiment to learn more. We are creative.
+- 🧪 **Innovation:** Experiment and invent.
+  
+  We are not afraid to look beyond what we already know. We have multiple examples of industry breakthroughs and contributions (700+ users on a single Shiny App, shiny.react, shiny.tools). We try new things and experiment to learn more. We are 
+  creative.
 
-- 🙋‍♀️ **Ownership: We act**
-We are proactive and we make important decisions. We react if there are unowned areas or risks. We start important conversations, even if they are uncomfortable.  We take pride in the work being done.
+- 🙋‍♀️ **Ownership:** We act.
+  
+  We are proactive and we make important decisions. We react if there are unowned areas or risks. We start important conversations, even if they are uncomfortable.  We take pride in the work being done.
 
-- ❤️ **Kindness: Be kind**
-We genuinely care about each other and our clients. We are compassionate
-when we hire and when we need to end a partnership.
+- ❤️ **Kindness:** Be kind.
+  
+  We genuinely care about each other and our clients. We are compassionate
+  when we hire and when we need to end a partnership.
 
-- 🤝 **Trust: Tell the truth**
-We trust ourselves and each other to perform well. We are sure of the best intentions of the others in the team.
+- 🤝 **Trust:** Tell the truth.
+  
+  We trust ourselves and each other to perform well. We are sure of the best intentions of the others in the team.
 
 
 # Open Source
 
-Join the Appsilon community and be part of our Open Source movement! 
+**Join the Appsilon community and be part of our Open Source movement!**
 
 We develop data science solutions and create innovative tools that simplify development and boost efficiency. We share these as Open Source packages because we believe in open and accessible solutions.
 Our primary focus is enhancing the Shiny experience in R.
@@ -98,10 +105,10 @@ You're bound to find something useful!
 
 
 # Recruitment Process
-If you want to know how to prepare for our recruitment process, check [this article on our blog](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)
+If you want to know how to prepare for our recruitment process, check **[this article on our blog](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)**
 Our recruitment process is flexible for each candidate, as we adapt it to the requirements for every open position.
 
-**Our recruitment process can be summarized in three steps:**
+**It can be summarized in three steps:**
 1. Interview with Talent Manager
 2. Task and Skill Test
 3. Meeting with Management for a Final Decision
