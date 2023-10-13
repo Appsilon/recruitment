@@ -112,9 +112,6 @@ You're bound to find something useful!
 - If you want to know how to prepare for our recruitment process, check **[this article on our blog.](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)**
 - Our recruitment process is flexible for each candidate, as we adapt it to the requirements for every open position.
 
-- **It can be summarized in three steps:**
-  - Interview with Talent Manager
-  - Task and Skill Test
-  - Meeting with Management for a Final Decision
+- **It can be summarized in these steps:**
 
-You're in! Welcome on board :) 
+   <img src="IMAGES/Screenshot 2023-10-13 at 13.06.18.png" alt=cover style="height:220px; width: 880px;"/> 
