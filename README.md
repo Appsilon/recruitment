@@ -1,15 +1,14 @@
-# About [Appsilon](https://appsilon.com) 
-
-![logo](GITHUB 2/Appsilon_2020_RGB_set-color.png)
+# About [Appsilon](https://appsilon.com)
 
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/775c25dd-68f9-4af8-94d8-0a37048a425d) **What mark will you leave on the world?** 
 
 We are a vibrant, international team of data scientists, engineers, and innovators who are passionate about making a positive impact in the world. The belief in the power of data and technology to solve some of the world's biggest challenges drives our commitment to exploring new possibilities and solutions.
 
-# [Appsilon](https://appsilon.com/) is hiring 
-![image](https://github.com/Appsilon/recruitment/assets/147711381/8d75b8ec-7e5d-4fd8-a649-4ceef99a581e)
+# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>[Appsilon](https://appsilon.com/) is hiring 
 
-We offer a unique environment where you can:
+<img src="IMAGES/Appsilon background.jpeg" alt=cover style="height:220px; width:750px;"/>
+
+**We offer a unique environment where you can:**
 
 - Receive competitive compensation and benefits
 - Enjoy a supportive and inclusive team culture
@@ -48,6 +47,8 @@ Join us, wherever you are!
 
 
 # Why [Appsilon](https://appsilon.com/) Is the Place for You?
+<img src="IMAGES/Screenshot 2023-10-10 at 09.47.08.png" alt=cover style="height:300px; width: 500px;"/>
+
 - **Company values and mission**: 
 We invest in being a force good through our Data 4 Good project, actively contributing to a better world.
 Attractive compensation package: We offer competitive compensation with extensive human-first, people-focused benefits to prioritize your personal and financial well-being. We provide a Personal Development Budget for you to use on your personal growth.
