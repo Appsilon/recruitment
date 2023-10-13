@@ -2,7 +2,8 @@
 
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/775c25dd-68f9-4af8-94d8-0a37048a425d) **What mark will you leave on the world?** 
 
-We are a vibrant, international team of data scientists, engineers, and innovators who are passionate about making a positive impact in the world. The belief in the power of data and technology to solve some of the world's biggest challenges drives our commitment to exploring new possibilities and solutions.
+- We create, maintain, and develop Shiny applications for enterprise customers all over the world. Appsilon provides scalability, security, and modern UI/UX with custom R packages that native Shiny apps do not provide. Our team is among the world’s foremost experts in R Shiny and has made a variety of Shiny innovations over the years. Appsilon is a proud Posit (RStudio) Full Service Certified Partner.
+- We are a vibrant, international team of data scientists, engineers, and innovators who are passionate about making a positive impact in the world. The belief in the power of data and technology to solve some of the world's biggest challenges drives our commitment to exploring new possibilities and solutions.
 
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>[Appsilon](https://appsilon.com/) is hiring!
@@ -16,7 +17,7 @@ We are a vibrant, international team of data scientists, engineers, and innovato
 - Connect with and learn from some of the brightest minds in the field
 - Work on cutting-edge projects that use data and technology to solve real-world problems
 
-[Join us](https://appsilon.com/careers/) and make a difference!
+**[Join us](https://appsilon.com/careers/)** and make a difference!
 
 # Benefits that go beyond the paycheck!
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/56d48b34-b4ee-42fd-b3c1-6f72282f2687)
@@ -48,8 +49,7 @@ Join us, wherever you are!
 
 
 # Why [Appsilon](https://appsilon.com/) Is the Place for You?
-  <img src="IMAGES/Screenshot 2023-10-10 at 09.47.08.png" alt=cover style="height:300px; width: 500px;"/>
-
+  <img src="IMAGES/Screenshot 2023-10-10 at 09.47.08.png" alt=cover style="height:200px; width: 320px;"/> <img src="IMAGES/Mikolajki_0108.jpg" alt=cover style="height:200px; width: 300px;"/>   <img src="IMAGES/Mikolajki_0022.jpg" alt=cover style="height:200px; width: 300px;"/>
 - **Company values and mission**: 
 We invest in being a force good through our Data 4 Good project, actively contributing to a better world.
 Attractive compensation package: We offer competitive compensation with extensive human-first, people-focused benefits to prioritize your personal and financial well-being. We provide a Personal Development Budget for you to use on your personal growth.
