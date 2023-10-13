@@ -1,5 +1,4 @@
 # About [Appsilon](https://appsilon.com) 
-
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/775c25dd-68f9-4af8-94d8-0a37048a425d) **What mark will you leave on the world?** 
 
 We are a vibrant, international team of data scientists, engineers, and innovators who are passionate about making a positive impact in the world. The belief in the power of data and technology to solve some of the world's biggest challenges drives our commitment to exploring new possibilities and solutions.
@@ -92,7 +91,6 @@ Impact: Your work has a real impact on the work of the whole company
 
 
 # Open Source
-![open source](ścieżka/do/obrazka)
 **Join the Appsilon community and be part of our Open Source movement!**
 
 We develop data science solutions and create innovative tools that simplify development and boost efficiency. We share these as Open Source packages because we believe in open and accessible solutions.
