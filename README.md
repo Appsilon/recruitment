@@ -1,4 +1,7 @@
 # About [Appsilon](https://appsilon.com) 
+
+![logo](GITHUB 2/Appsilon_2020_RGB_set-color.png)
+
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/775c25dd-68f9-4af8-94d8-0a37048a425d) **What mark will you leave on the world?** 
 
 We are a vibrant, international team of data scientists, engineers, and innovators who are passionate about making a positive impact in the world. The belief in the power of data and technology to solve some of the world's biggest challenges drives our commitment to exploring new possibilities and solutions.
