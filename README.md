@@ -92,7 +92,7 @@ Impact: Your work has a real impact on the work of the whole company
 
 
 # Open Source
-
+![open source](ścieżka/do/obrazka)
 **Join the Appsilon community and be part of our Open Source movement!**
 
 We develop data science solutions and create innovative tools that simplify development and boost efficiency. We share these as Open Source packages because we believe in open and accessible solutions.
