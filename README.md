@@ -49,7 +49,7 @@ Join us, wherever you are!
 
 
 # Why [Appsilon](https://appsilon.com/) Is the Place for You?
-  <img src="IMAGES/Screenshot 2023-10-10 at 09.47.08.png" alt=cover style="height:350px; width: 650px;"/> 
+  <img src="IMAGES/Screenshot 2023-10-10 at 09.47.08.png" alt=cover style="height:470px; width: 870px;"/> 
 
 - **Company values and mission**: 
 We invest in being a force good through our Data 4 Good project, actively contributing to a better world.
