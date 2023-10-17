@@ -21,10 +21,12 @@
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Benefits that go beyond the paycheck!
 #### At Appsilon, we believe that the best benefits are the ones that help you thrive.
-
+  
 That's why we offer a comprehensive benefits package that is designed to support your career growth as well as your physical and mental well-being. 
 We also give you the opportunity to grow and develop your career in a supportive and inclusive environment.  
 
+
+**Here's what you can expect:**
 - Competitive salary
 - Generous paid time off: Benefit from 26 days of paid holidays, plus the equivalent of public holidays in Poland
 - Comprehensive sick leave: Receive 33 paid sick leave days per year at 80% of your salary.
