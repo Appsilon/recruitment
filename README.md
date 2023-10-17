@@ -1,5 +1,4 @@
-# About [Appsilon](https://appsilon.com)
-
+# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>About [Appsilon](https://appsilon.com) 
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/775c25dd-68f9-4af8-94d8-0a37048a425d) **What mark will you leave on the world?** 
 
 - We create, maintain, and develop Shiny applications for enterprise customers all over the world. Appsilon provides scalability, security, and modern UI/UX with custom R packages that native Shiny apps do not provide. Our team is among the world’s foremost experts in R Shiny and has made a variety of Shiny innovations over the years. Appsilon is a proud Posit (RStudio) Full Service Certified Partner.
@@ -10,21 +9,21 @@
 
 <img src="IMAGES/Screenshot 2023-10-12 at 12.24.27.png" alt=cover style="height:250px; width: 990px;"/>
 
-**We offer a unique environment where you can:**
+### We offer a unique environment where you can:
 
 - Receive competitive compensation and benefits
 - Enjoy a supportive and inclusive team culture
 - Connect with and learn from some of the brightest minds in the field
 - Work on cutting-edge projects that use data and technology to solve real-world problems
 
-**[Join us](https://appsilon.com/careers/)** and make a difference!
+#### [Join us](https://appsilon.com/careers/) and make a difference!
 
-# Benefits that go beyond the paycheck!
-![image](https://github.com/Appsilon/recruitment/assets/147711381/56d48b34-b4ee-42fd-b3c1-6f72282f2687)
-At Appsilon, we believe that the best benefits are the ones that help you thrive. 
+
+# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Benefits that go beyond the paycheck!
+#### At Appsilon, we believe that the best benefits are the ones that help you thrive.
 
 That's why we offer a comprehensive benefits package that is designed to support your career growth as well as your physical and mental well-being. 
-We also give you the opportunity to grow and develop your career in a supportive and inclusive environment.
+We also give you the opportunity to grow and develop your career in a supportive and inclusive environment.  
 
 - Competitive salary
 - Generous paid time off: Benefit from 26 days of paid holidays, plus the equivalent of public holidays in Poland
@@ -37,7 +36,7 @@ We also give you the opportunity to grow and develop your career in a supportive
 - Life insurance: You and your family will be covered with life insurance.
 - Personal assistant: Benefit from AskHenry, your assistant.
 
-# Remote by Design
+# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Remote by Design
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/5b2d319b-a4e5-4237-8506-5c0540288449)
 **Remote Work, global talent, supportive culture.**
 
@@ -47,11 +46,11 @@ We also give you the opportunity to grow and develop your career in a supportive
 
 Looking for a fully remote job at a company that values flexibility and collaboration? 
 
-**[Join us](https://appsilon.com/careers/)** wherever you are!
+#### [Join us](https://appsilon.com/careers/) wherever you are!
 
 
 
-# Why [Appsilon](https://appsilon.com/) Is the Place for You?
+# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Why [Appsilon](https://appsilon.com/) Is the Place for You?
   <img src="IMAGES/Screenshot 2023-10-10 at 09.47.08.png" alt=cover style="height:470px; width: 870px;"/> 
 
 - **Company values and mission**: 
@@ -75,43 +74,47 @@ Appsilon is in TOP 3 world providers of R/Shiny consulting services. We are spec
 Impact: Your work has a real impact on the work of the whole company
 
 
-# Core Values
-- 💯 **Excellence:** If you do it, do it well.
+# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Core Values
+
+.
+- ### 💯 Excellence: If you do it, do it well.
   
   We can do things that others cannot. Fortune 500 companies come to us to solve problems that they cannot solve internally. Our blog is a resource for industry professionals at Global 2K companies. We teach well-regarded workshops.
 
-- 🧪 **Innovation:** Experiment and invent.
+- ### 🧪 Innovation: Experiment and invent.
   
   We are not afraid to look beyond what we already know. We have multiple examples of industry breakthroughs and contributions (700+ users on a single Shiny App, shiny.react, shiny.tools). We try new things and experiment to learn more. We are 
   creative.
 
-- 🙋‍♀️ **Ownership:** We act.
+- ### 🙋‍♀️ Ownership: We act.
   
   We are proactive and we make important decisions. We react if there are unowned areas or risks. We start important conversations, even if they are uncomfortable.  We take pride in the work being done.
 
-- ❤️ **Kindness:** Be kind.
+- ### ❤️ Kindness: Be kind.
   
   We genuinely care about each other and our clients. We are compassionate
   when we hire and when we need to end a partnership.
 
-- 🤝 **Trust:** Tell the truth.
+- ### 🤝 Trust: Tell the truth.
   
   We trust ourselves and each other to perform well. We are sure of the best intentions of the others in the team.
 
 
-# Open Source
-**Join the Appsilon community and be part of our Open Source movement!**
+# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Open Source
+### Embrace Open Source with Appsilon
+<img src="IMAGES/background-packages.png" alt=cover style="height:250px; width: 700px;"/>
 
 We develop data science solutions and create innovative tools that simplify development and boost efficiency. We share these as Open Source packages because we believe in open and accessible solutions.
 Our primary focus is enhancing the Shiny experience in R.
 
 We're dedicated to collaboration, innovation, and making a positive impact on the world. By contributing to our Open Source initiatives, you can sharpen your skills, work with a diverse and dynamic team, and stay on the cutting edge of technology. Your expertise can make a difference!
-Check out our [Open Source packages](https://appsilon.com/open-source-overview/) and delve into more details. 
+
+Check out our [Open Source packages](https://appsilon.com/tag/open-source/) and delve into more details. 
 
 You're bound to find something useful!
 
 
-# Recruitment Process
+# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Recruitment Process
 - If you want to know how to prepare for our recruitment process, check **[this article on our blog.](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)**
 - Our recruitment process is flexible for each candidate, as we adapt it to the requirements for every open position.
 
