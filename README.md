@@ -103,7 +103,7 @@ Impact: Your work has a real impact on the work of the whole company
 
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Open Source
-### Embrace Open Source with Appsilon
+### Embrace [Open Source with Appsilon](https://appsilon.com/tag/open-source/)
 <img src="IMAGES/background-packages.png" alt=cover style="height:250px; width: 700px;"/>
 
 We develop data science solutions and create innovative tools that simplify development and boost efficiency. We share these as Open Source packages because we believe in open and accessible solutions.
