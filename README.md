@@ -56,7 +56,7 @@ Looking for a fully remote job at a company that values flexibility and collabor
 - 🌍 **Company values and mission**: 
 We invest in being a force good through our Data 4 Good project, actively contributing to a better world.
 
-- :gift:**Attractive compensation package:** We offer competitive compensation with extensive human-first, people-focused benefits to prioritize your personal and financial well-being. We provide a Personal Development Budget for you to use on your personal growth.
+- :gift: **Attractive compensation package:** We offer competitive compensation with extensive human-first, people-focused benefits to prioritize your personal and financial well-being. We provide a Personal Development Budget for you to use on your personal growth.
 
 - :heartpulse: **Open, kind, and understanding internal culture:** 
 Our company thrives on a culture of openness and kindness, where your voice is heard and your ideas matter. We have an exceptional culture and we always check candidates alignment with our core values and Code of Conduct.
