@@ -5,7 +5,7 @@
 - We are a vibrant, international team of data scientists, engineers, and innovators who are passionate about making a positive impact in the world. The belief in the power of data and technology to solve some of the world's biggest challenges drives our commitment to exploring new possibilities and solutions.
 
 
-# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>[Appsilon](https://appsilon.com/) is hiring!
+# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>[We](https://appsilon.com/) are hiring!
 
 <img src="IMAGES/Screenshot 2023-10-12 at 12.24.27.png" alt=cover style="height:220px; width: 990px;"/>
 
