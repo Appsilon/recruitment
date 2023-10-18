@@ -25,6 +25,7 @@ That's why we offer a comprehensive benefits package that is designed to support
 We also give you the opportunity to grow and develop your career in a supportive and inclusive environment.  
 
 
+![image](https://github.com/Appsilon/recruitment/assets/147711381/25de7b89-df2d-4251-807f-b1ba9decd7e7)
 **Here's what you can expect:**
 - Competitive salary
 - Generous paid time off: Benefit from 26 days of paid holidays, plus the equivalent of public holidays in Poland
@@ -32,10 +33,10 @@ We also give you the opportunity to grow and develop your career in a supportive
 - Professional Development Budget
 - Flexible remote work
 - Training and conferences: Enjoy four paid days per year for training, conferences, events, or workshops.
-- Health benefits: Access private health care insurance (in Poland) or a cash equivalent if you're not in Poland.
-- Fitness perks: Receive a FitProfit or FitSport membership card (in Poland) or a cash equivalent if you're not in Poland.
+- Health benefits: Access private health care insurance (in Poland) or a cash equivalent.
+- Fitness perks: Receive a FitProfit or FitSport membership card (in Poland) or a cash equivalent.
 - Life insurance: You and your family will be covered with life insurance.
-- Personal assistant: Benefit from AskHenry, your assistant.
+- Personal virtual assistant: Benefit from AskHenry.
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Remote by Design
 ![image](https://github.com/Appsilon/recruitment/assets/147711381/5b2d319b-a4e5-4237-8506-5c0540288449)
