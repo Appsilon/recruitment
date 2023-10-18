@@ -109,8 +109,6 @@ Impact: Your work has a real impact on the work of the whole company
 We develop data science solutions and create innovative tools that simplify development and boost efficiency. We share these as Open Source packages because we believe in open and accessible solutions.
 Our primary focus is enhancing the Shiny experience in R.
 
-We're dedicated to collaboration, innovation, and making a positive impact on the world. By contributing to our Open Source initiatives, you can sharpen your skills, work with a diverse and dynamic team, and stay on the cutting edge of technology. Your expertise can make a difference!
-
 Check out our [Open Source packages](https://appsilon.com/tag/open-source/) and delve into more details. 
 
 You're bound to find something useful!
