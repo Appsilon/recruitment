@@ -73,8 +73,14 @@ Appsilon works mostly with Global 2000 and Fortune 500 customers (startups are n
 
 - **Market leaders:** 
 Appsilon is in TOP 3 world providers of R/Shiny consulting services. We are specialists in our core technology, R/Shiny developers observe us and like to talk to us
-Impact: Your work has a real impact on the work of the whole company
 
+- **Impact:**
+Your work has a real impact on the work of the whole company
+
+- We are a **global leader in R and Shiny**, which are used by companies of all sizes to build data applications.
+- Every few months we start completely **new projects** and dive into a completely new world. One day we learn the secrets of promotions in retail chains, another day we analyze satellite images, and then we get super interesting data from the residential market for analysis.
+- Our projects are not only an opportunity to test our skills in difficult statistical, algorithmic, and technological problems but also an opportunity to learn how many different industries work from the inside.
+- **Tech Stack that you can expect in Appsilon:** R, Shiny, JavaScript, React.js, Python, Docker, Git, AWS, HTML, CSS/ Sass 
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Core Values
 
