@@ -25,8 +25,7 @@ That's why we offer a comprehensive benefits package that is designed to support
 We also give you the opportunity to grow and develop your career in a supportive and inclusive environment.  
 
 
-![image](https://github.com/Appsilon/recruitment/assets/147711381/25de7b89-df2d-4251-807f-b1ba9decd7e7)
-**Here's what you can expect:**
+:gift_heart: **Here's what you can expect:** 
 - Competitive salary
 - Generous paid time off: Benefit from 26 days of paid holidays, plus the equivalent of public holidays in Poland
 - Comprehensive sick leave: Receive 33 paid sick leave days per year at 80% of your salary.
@@ -54,37 +53,40 @@ Looking for a fully remote job at a company that values flexibility and collabor
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Why [Appsilon](https://appsilon.com/) Is the Place for You?
   <img src="IMAGES/Screenshot 2023-10-10 at 09.47.08.png" alt=cover style="height:470px; width: 870px;"/> 
 
-- **Company values and mission**: 
+- 🌍 **Company values and mission**: 
 We invest in being a force good through our Data 4 Good project, actively contributing to a better world.
-Attractive compensation package: We offer competitive compensation with extensive human-first, people-focused benefits to prioritize your personal and financial well-being. We provide a Personal Development Budget for you to use on your personal growth.
 
-- **Open, kind, and understanding internal culture:** 
+- :gift:**Attractive compensation package:** We offer competitive compensation with extensive human-first, people-focused benefits to prioritize your personal and financial well-being. We provide a Personal Development Budget for you to use on your personal growth.
+
+- :heartpulse: **Open, kind, and understanding internal culture:** 
 Our company thrives on a culture of openness and kindness, where your voice is heard and your ideas matter. We have an exceptional culture and we always check candidates alignment with our core values and Code of Conduct.
 
-- **Great leadership:** 
+- 🎖 **Great leadership:** 
 Say goodbye to micromanagement. We believe in nurturing a healthy work-life balance.
 
-- **Privately held:**
+- :lock_with_ink_pen: **Privately held:**
 We're a fast-growing, privately held company with no outside investors, allowing us to focus on what matters most—our people and our mission.
 
-- **High-end customers:** 
+- ✨ **High-end customers:** 
 Appsilon works mostly with Global 2000 and Fortune 500 customers (startups are not our goal)
 
-- **Market leaders:** 
+- 🏆 **Market leaders:** 
 Appsilon is in TOP 3 world providers of R/Shiny consulting services. We are specialists in our core technology, R/Shiny developers observe us and like to talk to us
 
-- **Impact:**
+- 🎯 **Impact:**
 Your work has a real impact on the work of the whole company
 
-- We are a **global leader in R and Shiny**, which are used by companies of all sizes to build data applications.
-- Every few months we start completely **new projects** and dive into a completely new world. One day we learn the secrets of promotions in retail chains, another day we analyze satellite images, and then we get super interesting data from the residential market for analysis.
-- Our projects are not only an opportunity to test our skills in difficult statistical, algorithmic, and technological problems but also an opportunity to learn how many different industries work from the inside.
-- **Tech Stack that you can expect in Appsilon:** R, Shiny, JavaScript, React.js, Python, Docker, Git, AWS, HTML, CSS/ Sass 
+- 🚀 We are a **global leader in R and Shiny**, which are used by companies of all sizes to build data applications.
+  
+- 📊 Every few months we start completely **new projects** and dive into a completely new world. One day we learn the secrets of promotions in retail chains, another day we analyze satellite images, and then we get super interesting data from the residential market for analysis.
+  
+- 💡 Our projects are not only an opportunity to test our skills in difficult statistical, algorithmic, and technological problems but also an opportunity to learn how many different industries work from the inside.
+- 🧑🏼‍💻 **Tech Stack that you can expect in Appsilon:** R, Shiny, JavaScript, React.js, Python, Docker, Git, AWS, HTML, CSS/ Sass
 
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Core Values
 
-.
+
 - ### 💯 Excellence: If you do it, do it well.
   
   We can do things that others cannot. Fortune 500 companies come to us to solve problems that they cannot solve internally. Our blog is a resource for industry professionals at Global 2K companies. We teach well-regarded workshops.
