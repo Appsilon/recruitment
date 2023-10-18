@@ -18,7 +18,6 @@
 
 #### [Join us](https://appsilon.com/careers/) and make a difference!
 
-
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Benefits that go beyond the paycheck!
 #### At Appsilon, we believe that the best benefits are the ones that help you thrive.
   
@@ -51,7 +50,6 @@ Looking for a fully remote job at a company that values flexibility and collabor
 #### [Join us](https://appsilon.com/careers/) wherever you are!
 
 
-
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Why [Appsilon](https://appsilon.com/) Is the Place for You?
   <img src="IMAGES/Screenshot 2023-10-10 at 09.47.08.png" alt=cover style="height:470px; width: 870px;"/> 
 
@@ -81,6 +79,7 @@ Your work has a real impact on the work of the whole company
 - Every few months we start completely **new projects** and dive into a completely new world. One day we learn the secrets of promotions in retail chains, another day we analyze satellite images, and then we get super interesting data from the residential market for analysis.
 - Our projects are not only an opportunity to test our skills in difficult statistical, algorithmic, and technological problems but also an opportunity to learn how many different industries work from the inside.
 - **Tech Stack that you can expect in Appsilon:** R, Shiny, JavaScript, React.js, Python, Docker, Git, AWS, HTML, CSS/ Sass 
+
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Core Values
 
