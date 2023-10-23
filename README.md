@@ -145,3 +145,6 @@ You're bound to find something useful!
 **It can be summarized in these steps:**
 
    <img src="IMAGES/Screenshot 2023-10-13 at 13.06.18.png" alt=cover style="height:200px; width: 930px;"/> 
+
+<a href="https://jobs.lever.co/appsilon"><img src="IMAGES/apply_now_btn.png" alt="cover" style="height:50px; width:150px;"></a>
+
