@@ -109,7 +109,7 @@ Your work has a real impact on the work of the whole company
   We trust ourselves and each other to perform well. We are sure of the best intentions of the others in the team.
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/> [Data 4 Good](https://data4good.appsilon.com/)
 
-We Advance Technology to Preserve and Improve Life on Earth  :earth_africa:
+#### Change Makers Empowered by Data  :earth_africa:
 
 Appsilon is on a mission to tackle global challenges around climate change and biodiversity loss – the biggest threats faced by humanity. We collaborate with scientists, organizations, and businesses to make a positive impact on the world. Leveraging the power of data and analytics, we empower our partners to drive change and innovation for the social good.
 
@@ -123,7 +123,7 @@ Check Out Some of Our Data4Good Initiatives:
 
 We are constantly looking for new initiatives and partners to collaborate with for the good of the planet.
 
-**Let's talk!**
+**[Let's talk and make an impact!](mailto:hello@appsilon.com)**
 
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Open Source
