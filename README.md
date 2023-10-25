@@ -16,7 +16,13 @@
 - Connect with and learn from some of the brightest minds in the field
 - Work on cutting-edge projects that use data and technology to solve real-world problems
 
-#### [Join us](https://appsilon.com/careers/) and make a difference!
+**<a href="https://jobs.lever.co/appsilon">
+  <img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d99d667b609c675d3_btn_2.png" alt="Join us" width="150" height="50">
+</a> and make a difference!**
+
+
+
+
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Benefits that go beyond the paycheck!
 #### At Appsilon, we believe that the best benefits are the ones that help you thrive.
@@ -47,7 +53,10 @@ We also give you the opportunity to grow and develop your career in a supportive
 
 Looking for a fully remote job at a company that values flexibility and collaboration? 
 
-#### [Join us](https://appsilon.com/careers/) wherever you are!
+**<a href="https://jobs.lever.co/appsilon">
+  <img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d99d667b609c675d3_btn_2.png" alt="Join us" width="150" height="50"> 
+  </a> wherever you are!**
+
 
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Why [Appsilon](https://appsilon.com/) Is the Place for You?
@@ -123,7 +132,11 @@ Check Out Some of Our Data4Good Initiatives:
 
 We are constantly looking for new initiatives and partners to collaborate with for the good of the planet.
 
-**[Let's talk and make an impact!](mailto:hello@appsilon.com)**
+
+**[<img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d52bdf76728d5e47d_btn_3.png" alt="Let's make an impact!" width="150" height="50">](mailto:hello@appsilon.com) and make a difference!**
+
+
+
 
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Open Source
@@ -146,5 +159,5 @@ You're bound to find something useful!
 
    <img src="IMAGES/Screenshot 2023-10-13 at 13.06.18.png" alt=cover style="height:200px; width: 930px;"/> 
 
-<a href="https://jobs.lever.co/appsilon"><img src="IMAGES/apply_now_btn.png" alt="cover" style="height:50px; width:150px;"></a>
+<a href="https://jobs.lever.co/appsilon"><img src="IMAGES/apply_now_btn.png" alt="cover" style="height:55px; width:170px;"></a>
 
