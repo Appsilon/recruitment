@@ -51,9 +51,10 @@ We also give you the opportunity to grow and develop your career in a supportive
 - At Appsilon, we value flexibility and understand that work-life balance is essential. That’s why we've decided to work asynchronously.
 - Whether you want to tailor your work to fit your family life or practice workation, we're here to support you.
 
-Looking for a fully remote job at a company that values flexibility and collaboration? 
+**Looking for a fully remote job at a company that values flexibility and collaboration? 
+Check our careers page!**
 
-**<a href="https://jobs.lever.co/appsilon">
+**<a href="https://appsilon.com/careers/">
   <img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d99d667b609c675d3_btn_2.png" alt="Join us" width="150" height="50"> 
   </a> wherever you are!**
 
