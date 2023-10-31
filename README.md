@@ -134,7 +134,7 @@ Check Out Some of Our Data4Good Initiatives:
 We are constantly looking for new initiatives and partners to collaborate with for the good of the planet.
 
 
-**[<img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d52bdf76728d5e47d_btn_3.png" alt="Let's make an impact!" width="150" height="50">](mailto:hello@appsilon.com) and make a difference!**
+**[<img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d52bdf76728d5e47d_btn_3.png" alt="Let's make an impact!" width="150" height="50">](https://data4good.appsilon.com/#contact) and make a difference!**
 
 
 
