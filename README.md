@@ -18,7 +18,7 @@
 
 **<a href="https://appsilon.com/careers">
   <img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d99d667b609c675d3_btn_2.png" alt="Join us" width="150" height="50">
-</a> and make a difference!**
+</a>**
 
 
 
