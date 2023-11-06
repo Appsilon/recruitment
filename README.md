@@ -25,7 +25,7 @@
 
 
 
-# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Why [Appsilon](https://appsilon.com/) Is the Place for You?
+# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Why [Appsilon](https://appsilon.com/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=why-appsilon) Is the Place for You?
   <img src="IMAGES/Screenshot 2023-10-10 at 09.47.08.png" alt=cover style="height:470px; width: 870px;"/> 
 
 - 🌍 **Company values and mission**: 
@@ -98,7 +98,7 @@ We also give you the opportunity to grow and develop your career in a supportive
 **Looking for a fully remote job at a company that values flexibility and collaboration? 
 Check our careers page!**
 
-**<a href="https://appsilon.com/careers/#contact">
+**<a href="https://appsilon.com/careers/#contact?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=join-us2">
   <img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d99d667b609c675d3_btn_2.png" alt="Join us" width="150" height="50"> 
   </a> wherever you are!**
 
@@ -127,48 +127,48 @@ Check our careers page!**
 - ### 🤝 Trust: Tell the truth.
   
   We trust ourselves and each other to perform well. We are sure of the best intentions of the others in the team.
-# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/> [Data 4 Good](https://data4good.appsilon.com/)
+# <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/> [Data 4 Good](https://data4good.appsilon.com/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=data4good)
 
 #### Change Makers Empowered by Data  :earth_africa:
 
 Appsilon is on a mission to tackle global challenges around climate change and biodiversity loss – the biggest threats faced by humanity. We collaborate with scientists, organizations, and businesses to make a positive impact on the world. Leveraging the power of data and analytics, we empower our partners to drive change and innovation for the social good.
 
 Check Out Some of Our Data4Good Initiatives:
-- [Mbaza AI Project](https://appsilon.com/impactful-data-for-good-projects-2022/#mbaza](https://appsilon.com/data-for-good/mbaza-ai/))
-- [Future Forests Shiny Project](https://appsilon.com/climate-change-and-pine-forests/)
-- [R/Shiny Tech for Coral Reefs Conservation](https://appsilon.com/r-shiny-tech-for-coral-reef-conservation/)
-- [Antarctic Nests Remote Sensing Computer Vision Project](https://appsilon.com/yolo-counting-nests-antarctic-birds/)
+- [Mbaza AI Project](https://appsilon.com/data-for-good/mbaza-ai/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=mbaza) 
+- [Future Forests Shiny Project](https://appsilon.com/climate-change-and-pine-forests/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=future-forest)
+- [R/Shiny Tech for Coral Reefs Conservation](https://appsilon.com/r-shiny-tech-for-coral-reef-conservation/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=coral-reefs)
+- [Antarctic Nests Remote Sensing Computer Vision Project](https://appsilon.com/yolo-counting-nests-antarctic-birds/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=nests)
 
 **Are you working on a project that could be accelerated by the application of data science?**
 
 We are constantly looking for new initiatives and partners to collaborate with for the good of the planet.
 
 
-**[<img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d52bdf76728d5e47d_btn_3.png" alt="Let's make an impact!" width="150" height="50">](https://data4good.appsilon.com/#form) and make a difference!**
+**[<img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d52bdf76728d5e47d_btn_3.png" alt="Let's make an impact!" width="150" height="50">](https://data4good.appsilon.com/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=lets-talk#form) and make a difference!**
 
 
 
 
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Open Source
-### Embrace [Open Source with Appsilon](https://appsilon.com/tag/open-source/)
+### Embrace [Open Source with Appsilon](https://appsilon.com/tag/open-source/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=open-source)
 <img src="IMAGES/background-packages.png" alt=cover style="height:250px; width: 700px;"/>
 
 We develop data science solutions and create innovative tools that simplify development and boost efficiency. We share these as Open Source packages because we believe in open and accessible solutions.
 Our primary focus is enhancing the Shiny experience in R.
 
-Check out our [Open Source packages](https://appsilon.com/tag/open-source/) and delve into more details. 
+Check out our [Open Source packages](https://appsilon.com/tag/open-source/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=open-source) and delve into more details. 
 
 You're bound to find something useful!
 
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Recruitment Process
-- If you want to know how to prepare for our recruitment process, check **[this article on our blog.](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)** 
+- If you want to know how to prepare for our recruitment process, check **[this article on our blog.](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=article-on-our-blog)** 
 - Our recruitment process is flexible for each candidate, as we adapt it to the requirements for every open position.
 
 **It can be summarized in these steps:**
 
    <img src="IMAGES/Screenshot 2023-10-13 at 13.06.18.png" alt=cover style="height:200px; width: 930px;"/> 
 
-<a href="https://appsilon.com/careers/"><img src="IMAGES/apply_now_btn.png" alt="cover" style="height:55px; width:170px;"></a>
+<a href="https://appsilon.com/careers/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=apply-now"><img src="IMAGES/apply_now_btn.png" alt="cover" style="height:55px; width:170px;"></a>
 
