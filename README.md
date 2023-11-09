@@ -164,7 +164,7 @@ You're bound to find something useful!
 
 # <img src="IMAGES/Appsilon_ICON_2020_RGB_color.png" alt=cover style="height:70px; width: 70px;"/>Recruitment Process
 - If you want to know how to prepare for our recruitment process, check **[this article on our blog.](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/?utm_medium=referral&utm_source=github&utm_campaign=recruitment&utm_content=article-on-our-blog)** 
-- Our recruitment process is flexible for each candidate, as we adapt it to the requirements for every open position.
+- Our process is flexible for each candidate, as we adapt it to the requirements for every open position.
 
 **It can be summarized in these steps:**
 
